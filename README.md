@@ -6,5 +6,8 @@
     1. [Installation](#installation)
 3. [Todo](#todo)
 
-## This is the introduction <a name="introduction"></a>
-Some introduction text, formatted in heading 2 style
+## Introduction <a name="introduction"></a>
+This package implements the double debiased machine learning estimator for continuous treatment as in Colangelo and Lee (2020).
+
+## Getting Started <a name="getting-started"></a>
+

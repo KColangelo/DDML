@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'ddml',
   packages = ['ddml'],
-  version = '0.1',
+  version = '0.0.1',
   license='MIT',
   description = 'Implementation of the Double Debiased Machine Learning Estimator for Continuous Treatments',   # Give a short description about your library
   author = 'Kyle Colangelo', 
